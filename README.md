@@ -43,5 +43,7 @@ This project focuses on optimizing delivery schedules and forecasting monthly fr
   - **Target Variable**: `Freight Cost (USD)`
   - **Model Performance**: Achieved a training RMSE of 323737.57 and a test RMSE of 565322.23. The naive benchmark RMSE was 861773.48, indicating improved performance over the naive prediction.
   - **Architecture**: The model is configured with parameters (2,1,2), denoting two autoregressive terms, one differencing term, and two moving average terms.
+ 
+    
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1aYyGQ3PGG7IGqAmz099KTTstmzyr24lk?usp=sharing)
 
