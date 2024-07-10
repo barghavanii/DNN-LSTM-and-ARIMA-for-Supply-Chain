@@ -1,6 +1,6 @@
 # Supply Chain Optimization and Forecasting Models
 
-This project focuses on optimizing delivery schedules and forecasting monthly freight costs using various machine learning models, including DNN, LSTM, and ARIMA. The project involves extensive feature engineering and feature extraction on both structured and unstructured data.
+This project aims to optimize delivery schedules and forecast monthly freight costs for a pharmaceutical manufacturer using advanced machine learning models. We employed Recurrent Neural Networks (RNN), Long Short-Term Memory (LSTM) networks, and AutoRegressive Integrated Moving Average (ARIMA) models to achieve these goals. The project involved extensive feature engineering and extraction from both structured and unstructured data. Results and insights were visualized and presented on a Power BI dashboard for non-technical stakeholders.
 
 ## Project Structure
 
