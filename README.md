@@ -20,7 +20,7 @@ This project focuses on optimizing delivery schedules and forecasting monthly fr
 
 | **Model** | **Objective**                         | **Target Variable**        | **Model Architecture**          | **Performance Metric** | **Training RMSE** | **Test RMSE**      | **Benchmark RMSE** |
 |-----------|---------------------------------------|----------------------------|---------------------------------|------------------------|-------------------|--------------------|--------------------|
-| DNN       | Optimize delivery schedules           | Schedule v Actual          | Dense Neural Network (4 layers) | RMSE                   | 22.86             | 25.88              | 29.22            |
+| DNN       | Optimize delivery schedules           | Schedule v Actual          | Dense Neural Network (4 layers) | RMSE                   | 20.86             | 22.84              | 29.22            |
 | LSTM      | Forecast monthly freight costs        | Freight Cost (USD)         | LSTM Network (1 LSTM layer)     | RMSE                   | 292287.38 | 529783.7       | 861773.48        |
 | ARIMA     | Forecast monthly freight costs        | Freight Cost (USD)         | ARIMA (2,1,2)                   | RMSE                   | 323737.57         | 565322.23          | 861773.48        |
 
